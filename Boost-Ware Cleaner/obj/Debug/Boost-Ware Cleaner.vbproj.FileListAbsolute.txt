@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\bin\Debug\Boost-Ware Cleaner.exe.config
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\bin\Debug\Boost-Ware Cleaner.exe
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\bin\Debug\Boost-Ware Cleaner.pdb
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\bin\Debug\Boost-Ware Cleaner.xml
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost-Ware Cleaner.vbprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost_Ware_Cleaner.Form1.resources
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost_Ware_Cleaner.Resources.resources
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost-Ware Cleaner.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost-Ware Cleaner.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost-Ware Cleaner.exe
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost-Ware Cleaner.xml
+C:\Users\Asus\source\repos\Boost-Ware Cleaner\Boost-Ware Cleaner\obj\Debug\Boost-Ware Cleaner.pdb
